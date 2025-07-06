@@ -39,3 +39,5 @@ I’m a **just a guy** who **code** for **fun**, who loves to **learn**, **code*
 </p>
 
 ---
+
+![snake gif](https://github.com/Hacker-Sam-is-here/Hacker-Sam-is-here/blob/output/github-snake-dark.svg
