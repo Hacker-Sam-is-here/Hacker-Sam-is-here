@@ -88,9 +88,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hacker-Sam-is-Here/Hacker-Sam-is-Here/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hacker-Sam-is-Here/Hacker-Sam-is-Here/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hacker-Sam-is-Here/Hacker-Sam-is-Here/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
